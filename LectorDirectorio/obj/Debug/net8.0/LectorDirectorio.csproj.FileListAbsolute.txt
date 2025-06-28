@@ -1,0 +1,15 @@
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+C:\2025-TallerPar2C#\tl1-tp9-2025-cesarjosegodoy\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
