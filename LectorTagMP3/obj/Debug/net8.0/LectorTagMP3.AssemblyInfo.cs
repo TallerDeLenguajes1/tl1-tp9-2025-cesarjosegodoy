@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LectorTagMP3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef0b0ccd065495d54b983590a31e63dae4cdf6e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f76ab49e3c05a712cf0268f0eb4a4a6f1566957f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LectorTagMP3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LectorTagMP3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
